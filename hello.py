@@ -1,1 +1,1 @@
-print Hello, clean start
+print("Hello, clean start")
